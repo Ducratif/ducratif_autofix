@@ -1,2 +1,1 @@
-# ducratif_autofix
-En cours de développement.
+# DOCUMENTATION: https://autofix.ducratif.com/
